@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.nameo97.twa",
+        "sha256_cert_fingerprints": ["A6:9D:7D:FC:B6:FB:6D:49:69:B7:45:AA:E3:BD:E4:38:E7:5F:DB:88:57:C9:E8:C4:24:FE:20:13:B1:59:59:68"]
+      }
+    }]
 
